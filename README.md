@@ -1,0 +1,1 @@
+# ELK config for GoBittrex
