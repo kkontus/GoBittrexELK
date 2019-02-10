@@ -43,6 +43,7 @@ $logstash -f gobittrex.conf
 Above should create index visible on
 ```
 http://localhost:9200/gobittrex-log
+http://localhost:5601
 ```
 
 Above logs will be written with the code similar to:
